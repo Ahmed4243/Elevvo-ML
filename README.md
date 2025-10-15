@@ -1,38 +1,35 @@
-# 🤖 Elevvo Machine Learning Internship
+# 🌟 Elevvo-ML Internship Projects
 
-Welcome to my **Elevvo Machine Learning Internship** repository!  
-This repo contains all the projects I completed during the internship — each task focuses on a different area of machine learning like regression, clustering, and classification.
-
----
-
-## 📂 Projects Overview
-
-### 🧮 [Task 1 – Student Score Prediction](README_Task1.md)
-Predict students’ exam scores using regression models.  
-Explores how study hours, sleep, and motivation affect performance.
-
-### 🧍‍♂️ [Task 2 – Customer Segmentation](README_Task2.md)
-Cluster mall customers based on spending and income to identify marketing groups.
-
-### 🌲 [Task 3 – Forest Cover Type Classification](README_Task3.md)
-Classify types of forest cover from environmental data using Random Forest and XGBoost.
-
-### 💸 [Task 4 – Loan Approval Prediction](README_Task4.md)
-Predict loan approvals based on applicant details using Logistic Regression and Decision Tree models.
+This repository contains the machine learning tasks I completed during my **Elevvo Machine Learning Internship**.  
+Each task focuses on a different ML concept — from regression and classification to clustering and handling imbalanced data.
 
 ---
 
-## 🧠 What I Learned
-- Data cleaning, visualization, and preprocessing  
-- Handling categorical and imbalanced data  
-- Training and evaluating machine learning models  
-- Comparing model performance and visualizing results  
+## 📁 Tasks Overview
+
+### 🧮 [Task 1 – Student Score Prediction](./Task%201/README.md)
+Predict student exam scores using simple linear regression.
+
+### 🧍‍♂️ [Task 2 – Customer Segmentation](./Task%202/README.md)
+Cluster customers into groups based on income and spending patterns using K-Means.
+
+### 🌲 [Task 3 – Forest Cover Type Classification](./Task%203/README.md)
+Classify forest cover types using environmental features and tree-based models.
+
+### 💸 [Task 4 – Loan Approval Prediction](./Task%204/README.md)
+Predict loan approval outcomes using classification models and handle imbalanced data with SMOTE.
 
 ---
 
-## ⚙️ Tools & Libraries
-`Python`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`, `imblearn`
+## 🧰 Tools & Libraries
+- Python 🐍  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Imbalanced-learn (SMOTE)
 
 ---
 
-⭐ *This repo represents my practical work and learning progress during my Elevvo ML Internship.*
+## 📜 Author
+**Ahmed Mohammed**  
+Machine Learning Intern @ Elevvo
